@@ -22,6 +22,9 @@ var/
 wheels/
 pip-wheel-metadata/
 share/python-wheels/
+font/
+발표자료/
+보고서 사진/
 *.egg-info/
 .installed.cfg
 *.egg
