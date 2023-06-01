@@ -1,0 +1,30 @@
+[1] AirKorea - 미세먼지 정의. Retrieved from https://airkorea.or.kr/portal/web/contents/contentView/?pMENU_NO=141
+
+[2] AirKorea - 대기환경기준물질. Retrieved from https://www.airkorea.or.kr/web/airMatter?pMENU_NO=130
+
+[3] World Health Organization (2022). Ambient (outdoor) air pollution. Retrieved from //www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health
+
+[4] AirKorea - 에어코리아 소개. Retrieved from https://www.airkorea.or.kr/web/contents/contentView/?pMENU_NO=91&cntnts_no=1
+
+[5] Lee, C. H., & Oh, S. N. (2020). Effect of Atmospheric Humidity on Fine Dust Measurement Using the Light Scattering Method. J. Korean Soc. Hazard Mitig., 20(1), 391-399. doi: 10.9798/KOSHAM.2020.20.1.391
+
+그림1 - 경상국립대 351동 미세먼지 설치
+그림2 - 진주시 창렬사
+그림3 - 위치.png (측정기 설치 위치)
+그림4.1, 4.2 - outliar 제거 전처리
+그림5 - info함수를 사용한 결과
+
+그림10 - 데이터 분석 ( 논문에서 수정 해야 함 ) 그림4부터
+그림11.1,11.2 - 금왕 설치 위치
+그림12.1,12.2 - 장항읍 설치 위치
+그림13.1, 13.2 - 수정전, 수정후 금왕 데이터 ( 넣어야 함 )
+그림14.1, 14.2 - 수정전, 수정후 장항항 데이터
+그림15 - 낮은, 높은 구간 수정 후 장항항 데이터
+
+표1 - 풍향,풍속 전처리 전
+표2 - 풍향,풍속, 온습도 전처리 후
+표10,11 - 1월달 데이터 전체 표 ( 논문에서 수정 해야 함 )표1부터
+표12.1~12.3 - 장항항 데이터 비교
+표13.1~13.6 - 금왕 데이터 비교
+
+그림 삽입과 날짜,평가지표 ''를 삽입해야함.
